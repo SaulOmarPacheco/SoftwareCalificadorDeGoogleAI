@@ -1,0 +1,5 @@
+{
+  "name": "SoftwareCalificadorGoogleAIStudio",
+  "description": "An application that uses AI to evaluate a student's activity PDF against a rubric PDF, providing a detailed, criterion-by-criterion report with justifications and suggestions for improvement.",
+  "requestFramePermissions": []
+}
